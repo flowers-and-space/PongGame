@@ -269,6 +269,14 @@
                 "resourcePath": "views\\efe354cf-d16e-4937-8f15-24037692fe52.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ffb5d074-cdb0-4c73-a86a-b6f0d99f02d1",
+            "Value": {
+                "id": "5bb69a6a-65fa-466c-b108-75edb487215a",
+                "resourcePath": "sounds\\sndHitPaddle\\sndHitPaddle.yy",
+                "resourceType": "GMSound"
+            }
         }
     ],
     "script_order": [
